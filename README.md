@@ -33,20 +33,23 @@ Sensor data is displayed locally on an OLED display and simultaneously transmitt
 🛡️ Over-Temperature & Unsafe Charging Protection
 
 ---
+## 🌐 Live Simulation
 
-## 🛠️ Hardware Used
+Experience the complete project in Wokwi:
 
-* ESP32 DevKit V1
-* DHT22 Temperature & Humidity Sensor
-* NTC Thermistor
-* SSD1306 OLED Display
-* Relay Module
-* Active Buzzer
-* Green, Yellow & Red LEDs
-* Potentiometers (Voltage & Current Simulation)
-* Power Supply
+🔗 Wokwi Simulation
 
----
+https://wokwi.com/projects/465877535100900353
+
+The simulation demonstrates:
+- Real-time battery parameter monitoring
+- Temperature & humidity sensing
+- Charging status indication
+- Relay control logic
+- MQTT data publishing
+- OLED live display updates
+
+
 
 ## ⚙️ System Functions
 
